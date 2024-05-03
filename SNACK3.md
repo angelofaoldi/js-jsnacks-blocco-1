@@ -13,3 +13,12 @@ così facendo poi
 il console.log di TOTALE sarà
 la somma dei numeri nell'array
 
+per esempio
+console.log(`La somma dei numeri inseriti è: ${somma}`);
+
+______________________________________
+
+2) come fare a chiedere 10 volte?
+
+?un ciclo for?
+
