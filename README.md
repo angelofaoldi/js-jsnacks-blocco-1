@@ -10,6 +10,12 @@ e creare una struttura del tipo
 
 if (parola1.lenght < parola2.lenght)
 
+else (parola1.lenght > parola2.lenght)
+
+else si stampa comunque
+
 ________________________________________
 
-2) 
+2) come inserire i due prompt?
+
+creare una funzione?
