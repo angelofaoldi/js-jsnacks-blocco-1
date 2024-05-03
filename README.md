@@ -18,4 +18,10 @@ ________________________________________
 
 2) come inserire i due prompt?
 
-creare una funzione?
+?creare una funzione?
+
+parola1 e parola2 possono essere due costanti, perché i loro valori non cambieranno
+
+________________________________________
+
+
